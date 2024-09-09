@@ -1,11 +1,19 @@
-# History 102 - 09/09/2024 - Religious Wars in Europe
+# History 102 - Religious Wars in Europe
 
 ## Admin
 	* Second reading quiz - Friday, September 13th on Martin Luther's "To the christian nobility of the german nation (1520)"
 	* Gull Week this week
 	* First exam - next Friday, September 20th. Study session on next Wednesday September 18th.
 
+## START
+
 ## Main Points
+    * Martin Luther 95 Theses
+    * Calvinism
+    * Catholic Reformation
+    * Civil War in France
+    * 30 Years War
+
 
 ## Martin Luther & his 95 Theses
 
