@@ -59,5 +59,3 @@
       - Allowed them to mass print the bible instead of hand writing each one.
 
 ## END
-
-test
