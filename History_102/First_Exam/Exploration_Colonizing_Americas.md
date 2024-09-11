@@ -2,56 +2,56 @@
 
 ## Iberian Expansionism
 
-    * Muslim Conquest of Iberia 
+   * Muslim Conquest of Iberia 
      
-      - 711 AD
+     - 711 AD
 
-    * Reconquista (Cristian reconquest of Iberia)
+   * Reconquista (Cristian reconquest of Iberia)
 
-    * Three Events in 1492
+   * Three Events in 1492
       
-      - Colombus
-      - Granada
-      - Expulsion of Jews within Iberia
+     - Colombus
+     - Granada
+     - Expulsion of Jews within Iberia
 
-    * Competetition with Muslims as motive for exploration
+   * Competetition with Muslims as motive for exploration
       
-      - Ottoman Empire expansion
+     - Ottoman Empire expansion
 
-    * Spanish and Portuguese Maritime Expeditions
+   * Spanish and Portuguese Maritime Expeditions
       
-      - Vasco de Gama
-      - Colombus
+     - Vasco de Gama
+     - Colombus
 
 ## Why and How
 
-    * How did these European countriese venture out on overseas ventures of conquest?
+   * How did these European countriese venture out on overseas ventures of conquest?
 
-      - How?
+     - How?
        
-        - Political consolidation
-        - Government patronage 
-        - Technology
+       - Political consolidation
+       - Government patronage 
+       - Technology
 
-      - Why? The three G's
+     - Why? The three G's
         
-        - Gold 
-          - Commerical interests
+       - Gold 
+         - Commerical interests
         
-        - Glory
-          - Pride/Fame
+       - Glory
+         - Pride/Fame
         
-        - God
-          - Religious Factors
+       - God
+         - Religious Factors
 
 ## Colonialism in the Americas 
 
-    * Spanish financed imperial expansion with American gold and silver
+   * Spanish financed imperial expansion with American gold and silver
 
-    * Pattern evolved which Iberian settlers transformed the Americas into mineral extracting and
+   * Pattern evolved which Iberian settlers transformed the Americas into mineral extracting and
       agrarian colonies based on either cheap or forced labour.
 
-    * This exploitation of minerals and labour of the Americas allowed Europe to acquire precious
+   * This exploitation of minerals and labour of the Americas allowed Europe to acquire precious
       metals which India & China did not have
 
      - Agrarian output form the Americas also put them on par with India and China's position of
