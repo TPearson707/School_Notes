@@ -54,39 +54,39 @@
     * This exploitation of minerals and labour of the Americas allowed Europe to acquire precious
       metals which India & China did not have
 
-      - Agrarian output form the Americas also put them on par with India and China's position of
+     - Agrarian output form the Americas also put them on par with India and China's position of
         agrarian authority
 
 ## Caribbean Conquest
 
-    * Carribean islands were discovered under a royal commission by Colombus
-      - He established trade with the indigenous Tainos
+   * Carribean islands were discovered under a royal commission by Colombus
+     - He established trade with the indigenous Tainos
 
-    * Encomiendas: land-labour grants
+   * Encomiendas: land-labour grants
       - Amassed large quantities of gold through forced labour of Caribbean Tainos
 
-    * Disease and conquest: 250,000 to 1 million Tainos died from smallpox
-      - Had no immunity because they were isolated from the 'Old World'
+   * Disease and conquest: 250,000 to 1 million Tainos died from smallpox
+     - Had no immunity because they were isolated from the 'Old World'
 
-    * Encomiendas led to repartimiento (essentially went from slave labour  to slave labour)
+   * Encomiendas led to repartimiento (essentially went from slave labour  to slave labour)
 
 ## Conquest of Mexico and Peur
 
-    * Spanish conquistadors explloited internal weaknesses in the Aztec and Incan empires
+   * Spanish conquistadors explloited internal weaknesses in the Aztec and Incan empires
 
-    * A three-tiered society
-      - Europeans immigrants on top
-      - Native Americans in middle
-      - Black slaves on bottom
+   * A three-tiered society
+     - Europeans immigrants on top
+     - Native Americans in middle
+     - Black slaves on bottom
 
-    * Hernan Cortes (1485 - 1547)
-      - Took 300 men to the Yucatan Peninsula
-        - supposed to establish trading posts
-          - burns boats so no one can go back to cuba
-            - instead looks for the Aztec Empire (city of gold (movie el dorado))
+   * Hernan Cortes (1485 - 1547)
+     - Took 300 men to the Yucatan Peninsula
+       - supposed to establish trading posts
+         - burns boats so no one can go back to cuba
+           - instead looks for the Aztec Empire (city of gold (movie el dorado))
 
-      - Malinche
-        - was captured by Hernan as his mistress and translator 
+     - Malinche
+       - was captured by Hernan as his mistress and translator 
 
 ## Conquest of Aztec Empire
 
@@ -99,4 +99,24 @@
 
    * August 21, 1521: siege of Tenochtitlan
 
-   - Cuauhtemoc (1525) Final emporer found and killed 
+   * Cuauhtemoc (1525) Final emporer found and killed 
+
+## Conquest of the Inca Empire
+
+   * Francisco Pizarro (1475-1541) wanted to conquer the Andean empire of the Incas
+
+   * Got a permit from Charles V to establish a trading post, put together a team and left Spain in
+     December 1530
+
+   * Audience with Atahualpa - November 16, 1532
+     - Atahualpa said I won't be armed you wont be either
+     - Pizarro instead captured Atahualpa and killed everyone else
+     - Atahualpa offers riches for peace
+       - Pizarro kills him after taking his offer
+
+   * Capture of Cuzco
+     - After this they siege all gold and riches
+
+   * Lima, Peru established by Pizarro in 1535
+
+   * Spanish gain full control of Inca Empire in 1572 (end of the Inca)
