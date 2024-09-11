@@ -24,14 +24,15 @@
     * You can define functions in a shell script
 
     SYNTAX:
-
+    
+    ```bash
     function_name ()
     {
         statement
         statement
         ...
     }
-
+    ```
     * Function prototypes cannot  placed for calling a function before function definition
     * A funtion must be defined before it can be used
 
@@ -41,7 +42,8 @@
 ## Functoins With Local Variables
 
     * SYNTAX:
-
+    
+    ```bash
     #!/bin/sh
     # function.sh: na example for a function definition
 
@@ -60,6 +62,7 @@
     echo "your name is $yourname"
     echo "Parameters variables for this shell script are $@"
     exit 0
+    ```
 
     * We can declare local variables iwthin a function by using **local** keyword which is only in the
       function scope
@@ -67,7 +70,8 @@
       within the function
     
     * EXAMPLE:
-
+    
+    ```bash
     #!/bin/sh
     # local.sh for testing local variable
     # local variable is in the function scope
@@ -85,7 +89,7 @@
     yourlocation
     echo "I am still in $mylocation"
     exit 0
-
+    ```
 ## Function with Return Value
 
     * In bash, we cna define a function wit ha return value
@@ -100,13 +104,13 @@
 ## Break Command
 
     * Exit from a for, while or until loop
-
+    
         SYNTAX:
             break[n]
    
     * If n is supplied, the nth enclosing loop is exited
     * n must be n >= 1
-
+    ```bash
     for myloop in 1 2 3 4 5 do
     echo "$myloop"
     if [ "$myloop" -eq 3 ]
@@ -114,7 +118,7 @@ then
     break
     fi
 done
-
+```
 ## Continue Command 
 
     * Resume the next iteration of an enclosing for, while, until, or select loop.
