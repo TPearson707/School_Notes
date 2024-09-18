@@ -120,3 +120,97 @@
    * Lima, Peru established by Pizarro in 1535
 
    * Spanish gain full control of Inca Empire in 1572 (end of the Inca)
+
+## Why Were the Spanish so Successful?
+
+   * Four Factos - 
+     - Conquistadors went for the top of the imperial pyramid
+     - Individuals and groups contested the hierarchical power structure
+     - European-introduced diseases took a devastating toll
+     - Technology like Eurpean steel weaponsand armour, and horses
+
+## From conquest to colonialism
+   
+   * Creoles
+     - Spaniards born in America became the elite
+
+   * Conquistadors
+     - shift from looting to exploitation of Native American labor in mines & agriculture
+       - Discovered silver in Bolivia (1545) and northern Mexico (1556)
+       - Gold in Chile (1552)
+       - Mercury in Peru (1563)
+
+     - Mapuche
+
+## Exploitation of Mineral and Tropicla Resources
+  
+   * Columbian Exchange
+     - exchange of plants, animals, and diseases between Americas and rest of world
+
+   * Repartimiento
+     - Labour assignment
+       
+       - Obligation by villagers to send stipulated numbers of peo;ple as labourers to a contractor,
+         who had the right to exploit a mine or other labour-intesive enterprise; the contractors
+         paid the labourers minimal wages and bound them through debt peonage (repayment of money adv)
+         to their business
+
+   * Silver mines Potosi
+
+# North American Settlemnets
+
+  * Settlements weren't successful until the 17th century
+
+  * Jamestown (1607), Quebec (1608), Plymouth and Boston (1620 & 1630), and New Amsterdam (1625)
+
+  * Settlements continually struggled to survive and grow 
+
+  * North American settlements were not territotial conquests **AT FIRST**
+
+## Native Americans
+
+   * Smallpox
+     - as devastating in North America as in South America as European settlers began trading with
+       Native Americans
+
+   * Introduction of guns
+     - iroquois armed uprising in 1600s
+
+   * Jesuit conversion of Native Americans to Christianity
+     - Created a creaole christianity similar to Mexicans after Spanish conquest of the Aztecs
+
+## Social Strata, Castess and Ethnic Groups in the Colonialized Americas
+
+   * Social Elite / Creaols
+     - Heirs of Spanish coneuistadors and estate owners
+       - Top tier of society known as creoles
+
+   * Lower Creoles
+     - Second tier of creole society
+     - Craftspeople & traders, theoretically those who worked with their hands
+     - Many employed Native Americans and/or black slaves
+   * Mestizos and Mulattoes
+     - Mixed European-Native American and European-African "caste" (casta)
+     - Mestizos (Spanish) or Mesticos (Portuguese) Iberian fathers & Native American mothers
+     - Mulatos - Iberian fathers and black mothers
+     - Casta formed third largest 
+
+# Women
+  * Roles depended on their social standing
+# Native Americans
+  * Can be found at all social levels
+    - No real social distinctions after 150 years of Spanish conquest due to 80% of population
+      decimated due to disease
+    - Pueblos and cabildos
+
+
+## Assimilation into European Culture
+   * Catholic missionaries
+     - Spain & Portugal relied heavily on Catholic Church for their rules in Ameria
+   * Education and the Arts
+     - New World universities taught theology, church law and Native American languages
+   * Protestantism in New England
+     - Anne Hutchinson - leader and early proponent of women's rights
+     - Antinomian
+
+#
