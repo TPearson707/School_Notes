@@ -17,7 +17,7 @@ int main(void) {
     int msqid;
     key_t key;
 
-    /* create a key same as kirt.c */
+    /* create a key same as kirk.c */
     if ((key = ftok("kirk.c", 'B')) == -1) {
         perror("ftok error");
         exit(1);
@@ -29,7 +29,7 @@ int main(void) {
         exit(1);
     }
 
-    printf("spock: ready to receive messages, captain.\n");
+    printf("spock: ready to receive messages, captain.");
 
     for( ; ; ) {
         /* get each message from the message queue */
